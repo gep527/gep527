@@ -27,5 +27,6 @@ During my recent internships, I:
 
 ## My Projects
 
-- [Client-Server File Transfer System]([https://github.com/gep527/client-server-transfer-system.git]) – A client-server file sharing system with custom serialization protocol and encryption.
+- [Client-Server File Transfer System](https://github.com/gep527/client-server-transfer-system.git) – A client-server file sharing system with custom serialization protocol and encryption.
+
 
