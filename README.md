@@ -22,4 +22,10 @@ During my recent internships, I:
 - Delivered technical solutions for 200+ clinicians and researchers at **CRICO – Harvard Risk Management Foundation**, improving system reliability and streamlining access to risk analysis platforms.  
 - Collaborated with IT and data engineering teams to optimize workflows, reducing task time by ~25% and cutting resolution time by ~30% through better documentation and reproducible fixes.  
 - Built a **real-time revenue endpoint** using **Node.js** and the **QuickBooks API** at **Prisere**, eliminating manual reporting across 3 departments.  
-- Enhanced front-end features with **React** and **MongoDB**, improving financial workflows for 100+ users and reducing time-to-input by ~30%.  
+- Enhanced front-end features with **React** and **MongoDB**, improving financial workflows for 100+ users and reducing time-to-input by ~30%.
+
+
+## My Projects
+
+- [Client-Server File Transfer System]([https://github.com/gep527/client-server-transfer-system.git]) – A client-server file sharing system with custom serialization protocol and encryption.
+
